@@ -1,6 +1,6 @@
 {
   "name": "rx-vega-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rx.js wrapper around vega's parse",
   "main": "dist/index.js",
   "scripts": {
